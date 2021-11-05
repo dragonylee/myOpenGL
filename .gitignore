@@ -1,0 +1,7 @@
+.git
+.vs
+x64
+myOpenGL/x64
+*.filters
+*.user
+*.vcxproj
